@@ -1,0 +1,168 @@
+body{
+   width:auto;
+   background-color: blanchedalmond; 
+}
+header{
+    padding: 10px 10px 50px 10px;
+    background-color: black;
+}
+nav{
+    nav-right: auto;
+}
+.myNav{
+    text-align:right;
+    margin-top:-20px;
+}
+.icon{
+    margin: 50px;
+}
+.icon img{
+    margin-top: 50px;
+}
+.myNav a{
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.myNav a{
+    margin-top: -8px;
+}
+.section1{
+    margin-top:10px;
+    width: 100%;
+    height: 320px;
+    background-color: aqua;
+}
+.div1{
+    background-color: aliceblue;
+    width:33.3%;
+    height:300px;
+    float:left;
+}
+.div2{
+    background-color: rgb(199, 208, 216);
+    width:33.3%;
+    height:300px;
+    float:left;
+}
+.div3{
+    background-color:aliceblue;
+    width:33.3%;
+    height:300px;
+    float:right;
+}
+
+.div1 h2{
+    text-align: center;
+}
+.div2 h2{
+    text-align: center;
+}
+.div3 h2{
+    text-align: center;
+}
+
+
+.div1 p{
+    text-align: center;
+}
+.div2 p{
+    text-align: center;
+}
+.div3 p{
+    text-align: center;
+}
+
+
+
+.div11 img{
+    width:33.3%;
+    height:100px;
+  margin-left: 18.65%;
+}
+.div22 img{
+    width:33.3%;
+    height:100px;
+  margin-left: 18.65%;
+}
+.div33 img{
+    width:33.3%;
+    height:100px;
+  margin-left: 18.65%;
+}
+
+
+/*section2*/
+.section2{
+    width: 100%;
+    height: 300px;
+    height:100px;
+    background-color: aqua;
+}
+.div4{
+    background-color: aliceblue;
+    width:33.3%;
+    height:300px;
+    float:left;
+}
+.div5{
+    background-color: rgb(199, 208, 216);
+    width:33.3%;
+    height:300px;
+    float:left;
+}
+.div6{
+    background-color: aliceblue;
+    width:33.3%;
+    height:300px;
+    float:right;
+}
+.div44 img{
+    width:33.3%;
+    height:100px;
+  margin-left: 18.65%;
+}
+.div55 img{
+    width:33.3%;
+    height:100px;
+  margin-left: 18.65%;
+}
+.div66 img{
+    width:33.3%;
+    height:100px;
+  margin-left: 18.65%;
+}
+.div4 h2{
+    text-align: center;
+}
+.div5 h2{
+    text-align: center;
+}
+.div6 h2{
+    text-align: center;
+}
+
+.div4 p{
+    text-align: center;
+}
+.div5 p{
+    text-align: center;
+}
+.div6 p{
+    text-align: center;
+}
+footer{
+    background-color: black;
+  
+}
+footer p{
+    color: white;
+    text-align: center;
+  
+}
